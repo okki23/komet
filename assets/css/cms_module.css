@@ -1,0 +1,7 @@
+/*this is for custom css*/ 
+ 
+.modal-backdrop {
+    /* bug fix - no overlay */    
+    display: none;    
+}
+ 
